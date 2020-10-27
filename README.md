@@ -2,11 +2,9 @@
 ![image](https://img.shields.io/github/followers/aripadrian?label=follow&style=social)
     
 Hi there, I'm **Ari Padrian**, a **Web Developer** from Indonesia.
-
-
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=aripadrian&show_icons=true" height=200 style="width:48%;float:left" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aripadrian&layout=compact" height=200 style="width:48%;float:left" />
+    <img src="https://github-readme-stats.vercel.app/api?username=aripadrian&show_icons=true" height=140  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aripadrian&layout=compact" height=140  />
 </p>
 
 ### Let's connect!
