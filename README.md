@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 , I'm Adhi Ariyadi!
+![Profile Views](https://gpvc.arturio.dev/aripadrian)
+![image](https://img.shields.io/github/followers/aripadrian?label=follow&style=social)
+    
+Hi there, I'm **Ari Padrian**, a **Web Developer** from Indonesia.
 
-<!--
-**aripadrian/aripadrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=aripadrian&show_icons=true" height=178 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aripadrian&layout=compact" height=178 />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let's connect!
+<p>
+    <a href="https://web.facebook.com/aripadrian0/" target="blank"><img align="left" alt="Syauqi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+    <a href="https://twitter.com/aripadrian" target="blank"><img align="left" alt="Syauqi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+  <a href="https://instagram.com/aripadrian" target="blank"><img align="left" alt="Syauqi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+</p>
