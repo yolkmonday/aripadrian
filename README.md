@@ -7,6 +7,7 @@ Hi there, I'm **Ari Padrian**, a **Web Developer** from Indonesia.
     <img src="https://github-readme-stats.vercel.app/api?username=aripadrian&show_icons=true" height=140  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aripadrian&layout=compact" height=140  />
 </p>
+
 ### Let's connect!
 <p>
     <a href="https://web.facebook.com/aripadrian0/" target="blank"><img align="left" alt="Syauqi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
