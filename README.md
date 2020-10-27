@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Adhi Ariyadi!
+### Hi there 👋 , I'm Ari Padrian!
 ![Profile Views](https://gpvc.arturio.dev/aripadrian)
 ![image](https://img.shields.io/github/followers/aripadrian?label=follow&style=social)
     
