@@ -1,7 +1,7 @@
 ![Profile Views](https://gpvc.arturio.dev/aripadrian)
 ![image](https://img.shields.io/github/followers/aripadrian?label=follow&style=social)
 
-Hi there, I'm **Ari Padrian**, a **Web Developer** from Indonesia.
+Hi there, I'm **Ari Padrian**, a **Web Development Enthusiast**.
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=aripadrian&show_icons=true" height=140  />
